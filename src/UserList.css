@@ -1,0 +1,38 @@
+table {
+  margin-top: 2cm;
+
+  border: maroon;
+  width: 100%;
+  border: 5px;
+  background-color: wheat;
+}
+
+td {
+  height: 50px;
+  vertical-align: bottom;
+  width: 10cm;
+  height: 1cm;
+  border: 3px solid rgb(43, 1, 1);
+  padding: 8px;
+}
+th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.UserList {
+  background-color: navy;
+}
+
+h1 {
+  font-size: 35px;
+  color: black;
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+img {
+  width: 5cm;
+  height: 3cm;
+  margin-right: 33cm;
+  margin-top: 1cm;
+}
